@@ -6,7 +6,7 @@ The resource pack for **Castle Defense**, a co-op castle wave-defense minigame f
 
 **[Download the current pack](https://github.com/jothorgesen-lgtm/castle-defense-resource-pack/raw/main/Castle-Defense-Resource-Pack.zip)**
 
-That link always gives the newest version. No GitHub account needed.
+That link always gives the newest version. No GitHub account needed. There's also a [download page](https://jothorgesen-lgtm.github.io/castle-defense-resource-pack/) with the same link and the install steps.
 
 Current version: **JLOY1**, updated Nov 19, 2026.
 
