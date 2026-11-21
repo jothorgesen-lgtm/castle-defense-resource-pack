@@ -1,6 +1,6 @@
 # Castle Defense resource pack
 
-The resource pack for **Castle Defense**, a co-op castle wave-defense minigame for Minecraft Java 26.3. It adds the huge red Blood Moon, the gray stone boss statues in the Great Hall, and the Vanilla Tweaks the game uses.
+The resource pack for **Castle Defense**, a co-op castle wave-defense minigame for Minecraft Java 26.3. It adds the huge red Blood Moon, the gray stone boss statues in the Great Hall, the castle’s block looks (ebony wood, reinforced deepslate, iron gate blocks for each gate upgrade, strongboxes), and the Vanilla Tweaks the game uses.
 
 ## Download
 
@@ -8,7 +8,7 @@ The resource pack for **Castle Defense**, a co-op castle wave-defense minigame f
 
 That link always gives the newest version. No GitHub account needed. There's also a [download page](https://jothorgesen-lgtm.github.io/castle-defense-resource-pack/) with the same link and the install steps.
 
-Current version: **15UBG**, updated Nov 19, 2026.
+Current version: **1MI0U**, updated Nov 21, 2026.
 
 ## Install
 
